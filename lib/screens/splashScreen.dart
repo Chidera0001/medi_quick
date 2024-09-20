@@ -46,7 +46,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: Color.fromARGB(255, 14, 39, 93),
       body: Center(
         child: SvgPicture.asset(
-          'assets/icon.svg',
+          'assets/images/icon.svg',
           height: 128,
           width: 128,
           color: AppColors.whiteColor,

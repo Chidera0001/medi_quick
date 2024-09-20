@@ -15,12 +15,12 @@ List<BannerModel> bannerCards = [
         const Color(0xffa1d4ed),
         const Color(0xffc0eaff),
       ],
-      "assets/414-bg.png"),
+      "assets/images/414-bg.png"),
   BannerModel(
       "Covid-19",
       [
         const Color(0xffb6d4fa),
         const Color(0xffcfe3fc),
       ],
-      "assets/covid-bg.png"),
+      "assets/images/covid-bg.png"),
 ];

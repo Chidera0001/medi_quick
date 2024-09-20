@@ -128,7 +128,7 @@ class _DoctorsListState extends State<DoctorsList> {
                           ),
                         ),
                       ),
-                      const Image(image: AssetImage('assets/search-bg.png')),
+                      const Image(image: AssetImage('assets/images/search-bg.png')),
                     ],
                   ),
                 ),

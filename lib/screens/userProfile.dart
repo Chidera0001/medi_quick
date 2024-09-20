@@ -103,7 +103,7 @@ class _UserProfileState extends State<UserProfile> {
                     child: const CircleAvatar(
                       radius: 80,
                       backgroundColor: Colors.white,
-                      backgroundImage: AssetImage('assets/person.jpg'),
+                      backgroundImage: AssetImage('assets/images/person.jpg'),
                     ),
                   ),
                 ],

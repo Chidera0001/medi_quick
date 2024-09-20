@@ -154,17 +154,17 @@ class Onboard {
 
 final List<Onboard> messageTiles = [
   Onboard(
-      image: '@/assets/image-medical-2.jpg',
+      image: 'assets/images/image-medical-2.jpg',
       title: 'Exceptional Care',
       description: "Experience top-tier healthcare with our commitment to providing exceptional and personalized care for your well-being."
   ),
   Onboard(
-      image: '@/assets/19835.jpg',
+      image: 'assets/images/19835.jpg',
       title: 'The Right Answers',
       description: "Discover a wealth of knowledge and find the right answers to your health-related questions through our comprehensive and reliable information."
   ),
   Onboard(
-      image: 'assets/image-medical-3.jpg',
+      image: 'assets/images/image-medical-3.jpg',
       title: 'The Best Specialists',
       description: "Connect with the best specialists in the field who are dedicated to your health and well-being, ensuring you receive expert care tailored to your needs."
   ),

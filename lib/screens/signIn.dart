@@ -64,7 +64,7 @@ class _SignInState extends State<SignIn> {
               width: double.infinity,
               child: Container(
                 child: Image.asset(
-                  'assets/vector-doc2.jpg',
+                  'assets/images/vector-doc2.jpg',
                   scale: 3.5,
                 ),
               ),

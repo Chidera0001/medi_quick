@@ -162,7 +162,7 @@ class _BookingScreenState extends State<BookingScreen> {
             children: [
               Container(
                 child: const Image(
-                  image: AssetImage('assets/appointment.jpg'),
+                  image: AssetImage('assets/images/appointment.jpg'),
                   height: 250,
                 ),
               ),

@@ -47,7 +47,7 @@ class _SearchListState extends State<SearchList> {
                             ),
                           ),
                           const Image(
-                            image: AssetImage('assets/error-404.jpg'),
+                            image: AssetImage('assets/images/error-404.jpg'),
                             height: 250,
                             width: 250,
                           ),

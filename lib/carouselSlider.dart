@@ -47,7 +47,7 @@ class Carouselslider extends StatelessWidget {
                 children: [
                   Image.asset(
                     bannerCards[index].image,
-                    //'assets/414.jpg',
+                    //'assets/images/414.jpg',
                     fit: BoxFit.fitHeight,
                   ),
                   Container(
